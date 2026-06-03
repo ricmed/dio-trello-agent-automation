@@ -1,4 +1,4 @@
-# 🤖 Agent Task Manager — Trello AI Agent
+# 🤖 Agent Task Manager - Trello AI Agent
 
 <div align="center">
 
@@ -179,7 +179,7 @@ py-trello
 python-dotenv
 ```
 
-> ⚠️ **Atenção:** O pacote `datetime` é parte da biblioteca padrão do Python e não precisa ser listado. O pacote correto para variáveis de ambiente é `python-dotenv`, não `dotenv`.
+> ⚠️ **Atenção:** O pacote `datetime` é parte da biblioteca padrão do Python e não precisa ser listado.
 
 ### 4. Configure as variáveis de ambiente
 
@@ -348,7 +348,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ---
 
-## 🙋 Autor
+## 🙋 Autor: Ricardo Medeiros
 
 Desenvolvido como desafio prático de construção de agentes de IA com integração a ferramentas externas.
 
